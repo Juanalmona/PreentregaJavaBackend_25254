@@ -1,12 +1,1 @@
-[ {
-  "idItem" : 1,
-  "cantidadProducto" : 2,
-  "producto" : {
-    "idProducto" : 1,
-    "nombreProducto" : "harina",
-    "precioProducto" : 45.0,
-    "stockProducto" : 4
-  },
-  "subTotal" : 90.0,
-  "idPedido" : 1
-} ]
+[]
