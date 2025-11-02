@@ -24,3 +24,9 @@ La aplicación está estructurada con principios de programación orientada a ob
 ### 🧭 Interfaz interactiva
 - Menú dinámico que permite navegar entre las distintas funcionalidades.
 - Ciclo de ejecución persistente hasta que el usuario decide finalizar.
+
+- ## 🧰 Tecnologías utilizadas
+- Java 17
+- Maven
+- Programación orientada a objetos
+- Git y GitHub
